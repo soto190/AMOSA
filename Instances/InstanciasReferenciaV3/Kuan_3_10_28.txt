@@ -1,0 +1,27 @@
+//tasks machines configs edges
+10 3 7 13
+//Pij
+5 3 4 
+3 2 7 
+2 4 9 
+7 5 3 
+8 6 7 
+3 4 8 
+4 3 2 
+2 3 4 
+4 5 3 
+6 4 5 
+//Dependencies tareaPrevia TareaSiguiente costo
+1 2 3.0 
+1 5 8.0 
+1 6 9.0 
+2 3 6.0 
+2 4 4.0 
+5 8 6.0 
+5 9 6.0 
+6 9 3.0 
+3 7 5.0 
+4 7 3.0 
+7 10 7.0 
+8 10 4.0 
+9 10 8.0 

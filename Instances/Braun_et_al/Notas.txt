@@ -1,0 +1,2 @@
+All the instances have 512 tasks and 16 machines, and they
+combine the three ETC model properties. Braun et al. (2001)
